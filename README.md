@@ -27,11 +27,6 @@ A Java-based control system that enables a SwiftBot robot to perform dance routi
 - `DemoDance.java` - Pre-programmed demonstration routines
 - `QrCodeScanner.java` - QR code processing
 
-## Academic Context
-- **Course**: CS1814 - Object Oriented Programming
-- **University**: Brunel University London  
-- **Grade**: A+
-- **Key Achievement**: Technical excellence in hardware-software integration
 
 ## Developer
 Mekael Syed  
